@@ -69,6 +69,8 @@ Create a .env file in the root with:
 OPENAI_API_KEY=sk-...your_openai_key...
 DATABASE_URL=postgresql://postgres:yourpassword@localhost:5432/berkshire_rag_db
 
+---
+
 ## 📥 Ingest PDFs into Vector DB
 Put your shareholder letters in the documents/ folder (as .pdf).
 
