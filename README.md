@@ -48,7 +48,6 @@ berkshire-rag/
 ├── package.json
 └── README.md
 
-
 ---
 
 ## ⚙️ Setup Instructions
