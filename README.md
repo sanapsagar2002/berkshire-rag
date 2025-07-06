@@ -55,20 +55,8 @@ berkshire-rag/
 
 ### 1. Clone the Repo
 
-```bash
 git clone https://github.com/sanapsagar2002/berkshire-rag.git
 cd berkshire-rag
-
-## 🛠️ Getting Started
-
----
-
-### 1️⃣ Clone the Repository
-
-```bash
-git clone https://github.com/sanapsagar2002/berkshire-rag.git
-cd berkshire-rag
-
 
 ### 2. Install Dependencies
 bash
