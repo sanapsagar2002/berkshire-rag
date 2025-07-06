@@ -108,4 +108,3 @@ PgVector Extension
 ## 🛡️ License
 MIT License © 2025 Sagar Sanap
 
----
